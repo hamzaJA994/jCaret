@@ -232,6 +232,9 @@ select:focus {
 .resizable.full table {
     width: 100%;
 }
+#infoModal {
+    font-family: "El Messiri", sans-serif;
+}
 #aboutText, #aboutContent {
     display: block;
 }
