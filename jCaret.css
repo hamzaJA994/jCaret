@@ -2,7 +2,7 @@
     font-family:'Shekari';
     src:url('shekari.ttf') format('truetype');
 }
-/* Container Defaults */
+/* Container Defaults. */
 #editor-container {
     width: 100%;
     max-width: 800px; /* Default maximum width */
