@@ -708,7 +708,7 @@ class jCaret {
                     </div>
                 </div>
                 <div class="flex justify-between gap-2 mt-6 pt-4 border-t border-gray-100">
-                    <p style="margin-top: 10px;"><a href="https://www.auktubli.com" target="blank">${this.i18n.by}</a></p><button id="closeInfo" class="px-4 py-2 rounded-md bg-blue-600 text-white text-sm font-medium hover:bg-blue-700 transition-colors shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">${this.i18n.ok || 'OK'}</button>
+                    <p style="margin-top: 10px;"><a href="https://www.auktubli.com" target="blank" style="color: #007bff;">${this.i18n.by}</a></p><button id="closeInfo" class="px-4 py-2 rounded-md bg-blue-600 text-white text-sm font-medium hover:bg-blue-700 transition-colors shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">${this.i18n.ok || 'OK'}</button>
                 </div>
             </div>
         `;
